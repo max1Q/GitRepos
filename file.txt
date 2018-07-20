@@ -3,3 +3,5 @@ My first line in project
 Paris is the capital of France
 =======
 >>>>>>> parent of ac860cf... Two Capitals added
+Minsk is tha Capital of Belarus
+Kiev is tha Capital of Ukraine
